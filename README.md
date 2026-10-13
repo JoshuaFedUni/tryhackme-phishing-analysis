@@ -1,6 +1,6 @@
 # Phishing Email Analysis — TryHackMe "Phishing Emails in Action"
 
-**Platform:** [TryHackMe](https://tryhackme.com/room/phishingemails2rytmuv) · **Difficulty:** Easy · **Status:** ✅ Completed (8/8 tasks)
+**Platform:** [TryHackMe](https://tryhackme.com/room/phishingemails2rytmuv) · **Difficulty:** Easy · **Status:** ✅ [Completed (8/8 tasks)](https://tryhackme.com/room/phishingemails2rytmuv?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=6aa0c90756d5436e0604aef9)
 **Focus:** Incident response (first responder), phishing triage, indicator extraction
 **Framework mapping:** NIST CSF 2.0 — Detect (DE.AE), Respond (RS.AN), Protect (PR.AT)
 
